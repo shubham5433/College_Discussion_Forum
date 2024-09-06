@@ -9,7 +9,8 @@ The College Discussion Forum is a web platform built using the MERN stack, desig
 
 <h2>ScreenShots:</h2>
 Dashboard (without login)<br>
- ![Picture1](https://github.com/user-attachments/assets/26c48438-efb6-4707-b663-b061d1a3b777)
+<img src="https://github.com/user-attachments/assets/ea6d06f4-5e52-45dd-82c9-89d158d06c18" alt="png" width="700" height="400">
+
 
 
 
